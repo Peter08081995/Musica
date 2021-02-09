@@ -1,0 +1,27 @@
+.form-group a i {
+    font-family: FontAwesome;
+    margin: 0 auto;
+    font-size: 5rem;
+    font-style: normal;
+  }
+
+  .fa{
+    color: gray!important;
+  }
+
+  .min-container form .fa {
+    top: 13px;
+    right: 1rem;
+  }
+
+  .min-container {
+    margin: 0 auto;
+  }
+
+  .rounded-0{
+    border-radius: 50px!important;
+  }
+
+  .form-group{
+    margin-bottom: 0rem;
+  }

@@ -1,0 +1,36 @@
+.estiloLogo {
+  background: #662323;
+  padding-bottom: 100%;
+  padding-top: 3%;
+}
+
+.estilo1link {
+  font-family: Quicksand, 22-bold-white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #FFFFFF;
+}
+
+.estilo2link {
+  font-family: Quicksand, 16-regular-white;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #E86060;
+  border-left: 3px solid #E86060;
+}
+
+.estilo3link {
+  font-family: Quicksand, 16-regular-white;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+  opacity: 80%;
+}
